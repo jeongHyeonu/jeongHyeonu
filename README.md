@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/next.js-20232a.svg?style=flat-square&logo=next.js&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />&nbsp
 </div>
 
