@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?height=100&text=hyeonuJeong%20github&fontColor=FFFFFF&type=soft" type="soft"/>
+<img src="https://capsule-render.vercel.app/api?height=100&text=JeongHyeonu%20github&fontColor=FFFFFF&type=soft" type="soft"/>
 </h1>
   
 <p align="center">
@@ -61,4 +61,11 @@
     <img
       src="https://img.shields.io/badge/hw020123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
+
+
+<br>
+
+<div align="center">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyeonu&layout=compact&theme=transparent&hide_border=true" /></a> 
 </div>
